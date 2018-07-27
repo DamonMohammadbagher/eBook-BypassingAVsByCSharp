@@ -6,5 +6,5 @@ Chapter 1 : Creating Simple Backdoor Payload by C#.NET
 
 Related Videos :
 
-Chapter 1 - Video [1] , Creating Simple Backdoor Payload by C#.NET. : https://www.youtube.com/watch?v=pdMgQSTuN0M
+Chapter 1 - Video [1] , Creating Simple Backdoor Payload by C#.NET : https://www.youtube.com/watch?v=pdMgQSTuN0M
 
