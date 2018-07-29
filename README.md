@@ -1,7 +1,7 @@
 #  eBook "Bypassing AVS by C#.NET Programming" (Free Chapters only)
 Author :Damon Mohammadbagher
 
-Ii want to share Chapters for my eBook before Publish it so i will share these , "chapter by chapter" via simple PDF/Code/Video files.
+I want to share Chapters for my eBook before Publish it so i will share these , "chapter by chapter" via simple PDF/Code/Video files.
 
 Note : I will Share Next Chapters here one by one.
 
