@@ -17,3 +17,5 @@ STEP 1 : Use each AV one by one in your LAB .
 STEP 2 : after "AV Signature Database Updated" your Internet Connection should be "Disconnect" .
 
 STEP 3 : Now you can Copy and Paste your C# code to your Virtual Machine for test .
+
+(some AVs will Dump/Upload your Codes/Exe to Their Servers for Analysis)
