@@ -12,7 +12,7 @@ Warning :Don't Use "www.virustotal.com" or something like that , Never Ever ;D
 
 Recommend:
 
-STEP 1 : Use each AV one by one in yor LAB .
+STEP 1 : Use each AV one by one in your LAB .
 
 STEP 2 : after "AV Signature Database Updated" your Internet Connection should be "Disconnect" .
 
