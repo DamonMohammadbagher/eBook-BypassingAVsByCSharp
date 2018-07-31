@@ -10,7 +10,7 @@ Chapter 1 - Video [1] , Creating Simple Backdoor Payload by C#.NET : https://www
 
 Warning :Don't Use "www.virustotal.com" or something like that , Never Ever ;D
 
-Recommend:
+Recommended:
 
 STEP 1 : Use each AV one by one in your LAB .
 
