@@ -10,7 +10,7 @@ Important Point about this eBook and these Chapters : These Chapters are some â€
 
 Warning :Don't Use "www.virustotal.com" or something like that , Never Ever ;D
 
-Recommend:
+Recommended:
 
 STEP 1 : Use each AV one by one in your LAB .
 
