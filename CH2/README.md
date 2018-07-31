@@ -10,10 +10,11 @@ Related Videos :
 
 SOON
 
-C# Source Code:
+C# Source Code: https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/tree/master/Ebook%20-%20Chapter%202%20-%20Making%20Encrypted%20Meterpreter%20Payload%20by%20C-Sharp.NET
 
-https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/tree/master/Ebook%20-%20Chapter%202%20-%20Making%20Encrypted%20Meterpreter%20Payload%20by%20C-Sharp.NET
 
+Related Article : 
+https://www.linkedin.com/pulse/bypass-all-anti-viruses-encrypted-payloads-c-damon-mohammadbagher/
 
 
 Warning :Don't Use "www.virustotal.com" or something like that , Never Ever ;D
