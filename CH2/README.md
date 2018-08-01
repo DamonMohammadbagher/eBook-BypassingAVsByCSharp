@@ -6,9 +6,8 @@ Part 1 (C#.NET Tricks and Techniques)
 
 Chapter 2 : Making Encrypted Meterpreter Payload by C#.NET
 
-Related Videos :
+Related Videos : https://youtu.be/j6pwSemHfTY
 
-SOON
 
 C# Source Code: https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/tree/master/Ebook%20-%20Chapter%202%20-%20Making%20Encrypted%20Meterpreter%20Payload%20by%20C-Sharp.NET
 
