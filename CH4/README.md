@@ -14,9 +14,9 @@ Script Code  :  https://github.com/DamonMohammadbagher/NativePayload_DNS2/tree/m
 
 Related Article : 
 
-link 1 : https://www.peerlyst.com/posts/exfiltration-technique-by-dns-traffic-a-records-damon-mohammadbagher
+link 1 :  https://www.linkedin.com/pulse/exfiltration-technique-dns-traffic-records-damon-mohammadbagher/
 
-link 2 : 
+link 2 : https://www.peerlyst.com/posts/exfiltration-technique-by-dns-traffic-a-records-damon-mohammadbagher
 
 
 
