@@ -4,7 +4,7 @@ Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
 
 Chapter 4 : DATA Transferring Technique by DNS Traffic (A Records)
 
-Related Videos : 
+Related Videos : https://www.youtube.com/watch?v=B-vR7jKXyts
 
 
 C# Source Code 1 : https://github.com/DamonMohammadbagher/NativePayload_DNS2
