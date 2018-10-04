@@ -8,7 +8,9 @@ Related Videos :
 
 C# Code : 
 
-https://youtu.be/qDLicXj7Vuk
+Video 1 C# Code : https://youtu.be/qDLicXj7Vuk
+
+Video 2 Script Code : https://www.youtube.com/watch?v=O-llNZ9S8Mo
 
 C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_ARP
 
