@@ -10,6 +10,10 @@ C# Code :
 
 https://www.youtube.com/watch?v=9jiry5b-oPo
 
+Script Code :
+
+https://www.youtube.com/watch?v=6Lj-2KkHqgA
+
 C# Source Code 1 : https://github.com/DamonMohammadbagher/RedbudTree
 
 Script Code  :  https://github.com/DamonMohammadbagher/NativePayload_IP6DNS/tree/master/Chapter%206%20-%20DATA%20Transferring%20Technique%20by%20DNS%20Traffic%20-%20AAAA%20Records
