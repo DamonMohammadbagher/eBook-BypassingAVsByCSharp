@@ -20,9 +20,9 @@ Script Code : https://github.com/DamonMohammadbagher/NativePayload_BSSID/tree/ma
 
 Related Article :
 
-link 1 : 
+link 1 : https://www.linkedin.com/pulse/transferring-backdoor-payloads-bssid-wireless-traffic-mohammadbagher/
 
-link 2 : 
+link 2 : https://www.peerlyst.com/posts/transferring-backdoor-payloads-with-bssid-by-wireless-traffic-damon-mohammadbagher
 
 Warning :Don't Use "www.virustotal.com" or something like that , Never Ever ;D
 
