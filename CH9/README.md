@@ -8,8 +8,6 @@ Chapter 9 : Transferring Backdoor Payload by Wireless Traffic (BSSID)
 
 Related Videos :
 
-C# Code :
-
 Video 1 C# Code : https://youtu.be/W0dJGln3tls
 
 Video 2 Script Code : 
