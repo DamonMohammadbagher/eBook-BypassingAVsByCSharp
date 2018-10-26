@@ -10,7 +10,7 @@ Related Videos :
 
 Video 1 C# Code : https://youtu.be/W0dJGln3tls
 
-Video 2 Script Code : 
+Video 2 Script Code : https://www.youtube.com/watch?v=i6Y5BmJXWko
 
 C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_BSSID
 
