@@ -12,7 +12,7 @@ Related Videos :
 
 Video 1 Script and C# Code : https://www.youtube.com/watch?v=D5tfh23vIOQ
 
-Video 2 Script Code : https://www.youtube.com/watch?v=2n6ZLbJxlkw
+Video 2 (Chat Mode) Script Code  : https://www.youtube.com/watch?v=2n6ZLbJxlkw
 
 
 C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_Image
