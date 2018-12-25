@@ -10,15 +10,15 @@ Chapter 11 : Hiding Payloads via BMP Image Pixels (PART2)
 
 Related Videos :
 
-C# Code :
-
 Video 1 Script and C# Code : https://www.youtube.com/watch?v=D5tfh23vIOQ
 
 Video 2 Script Code : https://www.youtube.com/watch?v=2n6ZLbJxlkw
 
+
 C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_Image
 
 Script Code : 
+
 
 Related Article :
 
