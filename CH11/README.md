@@ -17,7 +17,7 @@ Video 2 (Chat Mode) Script Code  : https://www.youtube.com/watch?v=2n6ZLbJxlkw
 
 C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_Image
 
-Script Code : 
+Script Code : https://github.com/DamonMohammadbagher/NativePayload_Image/tree/master/Chapter%2011%20-%20Hiding%20Payloads%20via%20BMP%20Image%20Pixels
 
 
 Related Article :
