@@ -8,6 +8,8 @@ Chapter 12 : Simple way for Data Exfiltration via HTTP (PART2)
 
 Related Videos :
 
+Video [1] , Shell Script (server/client side) : https://www.youtube.com/watch?v=vjhubCYFP4c
+
 
 
 C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_HTTP/blob/master/Chapter%2012:%20Simple%20way%20for%20Data%20Exfiltration%20via%20HTTP/NativePayload_HTTP.cs
