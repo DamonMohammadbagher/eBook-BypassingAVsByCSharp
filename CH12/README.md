@@ -10,6 +10,8 @@ Related Videos :
 
 Video [1] , Shell Script (server/client side) : https://www.youtube.com/watch?v=vjhubCYFP4c
 
+Video [2] , C# code (client side) : https://www.youtube.com/watch?v=7MCOko-qy0c
+
 
 
 C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_HTTP/blob/master/Chapter%2012:%20Simple%20way%20for%20Data%20Exfiltration%20via%20HTTP/NativePayload_HTTP.cs
