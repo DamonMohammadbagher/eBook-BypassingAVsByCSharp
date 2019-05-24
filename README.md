@@ -38,6 +38,6 @@ Chapters :
     Chapter 8 : Transferring Backdoor Payloads by ARP Traffic
     Chapter 9 : Transferring Backdoor Payload by Wireless Traffic (BSSID)
     Chapter 10 : Transferring Payload via ICMPv4 Traffic by TTL
-    Chapter 11 : Hiding Payloads via BMP Image Pixels (PART1)
+    Chapter 11 : Hiding Payloads via BMP Image Pixels 
     Chapter 12 : Simple way for Data Exfiltration via HTTP
     
