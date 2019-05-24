@@ -26,7 +26,7 @@ STEP 3 : Now you can Copy and Paste your C# code to your Virtual Machine for tes
 
 (some AVs will Dump/Upload your Codes/Exe to Their Servers for Analysis)
 
-Chpaters :
+Chapters :
 
     Chapter 1 : Creating Simple Backdoor Payload by C#.NET
     Chapter 2 : Making Encrypted Meterpreter Payload by C#.NET
