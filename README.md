@@ -19,6 +19,8 @@ Chapters :
     Chapter 10 : Transferring Payload via ICMPv4 Traffic by TTL
     Chapter 11 : Hiding Payloads via BMP Image Pixels 
     Chapter 12 : Simple way for Data Exfiltration via HTTP
+    Chapter 13 : C# e[X]tension Method (X Technique) and bypassing Anti-viruses
+
     
 Important Point about this eBook and these Chapters : These Chapters are some “Free” Parts of my Course so Please don't Ask me about Full Chapters/Codes and Videos.
 
