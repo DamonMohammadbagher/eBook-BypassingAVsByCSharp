@@ -4,11 +4,11 @@ Part 1 (C#.NET Tricks and Techniques)
 
 Chapter 13 : C# e[X]tension Method (X Technique) and bypassing Anti-viruses 
 
-Related Videos :
-
 C# Source Code 1 (New-Code) : https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/blob/master/NativePayload_Reverse_tcpx.cs
 
 C# Source Code 2 (Old-Code) : https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/blob/master/NativePayload_SimpleReverse_tcp.cs
+
+Related Videos :
 
 Chapter 13 - Video [1] :
 
