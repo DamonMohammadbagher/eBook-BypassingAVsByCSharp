@@ -8,6 +8,8 @@ C# Source Code 1 (New-Code) : https://github.com/DamonMohammadbagher/NativePaylo
 
 C# Source Code 2 (Old-Code) : https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/blob/master/NativePayload_SimpleReverse_tcp.cs
 
+Article [1]: https://www.linkedin.com/pulse/c-x-technique-bypassing-anti-viruses-damon-mohammadbagher/
+
 Related Videos :
 
 Chapter 13 - Video [1] :
