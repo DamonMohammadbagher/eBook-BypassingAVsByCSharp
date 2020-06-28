@@ -1,5 +1,6 @@
 #  eBook "Bypassing AVS by C#.NET Programming" (Free Chapters only)
-Author :Damon Mohammadbagher
+
+Author: Damon Mohammadbagher
 
 ![](https://raw.githubusercontent.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/master/img/avx3.png)
 
