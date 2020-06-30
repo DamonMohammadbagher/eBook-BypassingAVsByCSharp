@@ -25,7 +25,7 @@ Chapters :
 
 Download Videos: https://github.com/DamonMohammadbagher/Videos-BypassingAVsByCSharp
 
-Note: you can watch these videos online : https://www.youtube.com/watch?v=7MCOko-qy0c&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o
+Note: you can watch these videos online : https://www.youtube.com/watch?v=pdMgQSTuN0M&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o&index=1
 
     
 Important Point about this eBook and these Chapters : These Chapters are some “Free” Parts of my Course so Please don't Ask me about Full Chapters/Codes and Videos.
