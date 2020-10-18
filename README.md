@@ -22,6 +22,7 @@ Chapters :
     Chapter 12 : Simple way for Data Exfiltration via HTTP
     Chapter 13 : C# e[X]tension Method (X Technique) and bypassing Anti-viruses
     
+Now this eBook is online with simple web pages here : https://damonmohammadbagher.github.io/Posts/ebookBypassingAVsByCsharpProgramming/index.htm 
 
 Download Videos: https://github.com/DamonMohammadbagher/Videos-BypassingAVsByCSharp
 
