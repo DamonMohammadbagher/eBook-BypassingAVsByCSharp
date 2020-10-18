@@ -27,7 +27,7 @@ Chapters :
 ----------   
 This eBook is online with simple web pages here : https://damonmohammadbagher.github.io/Posts/ebookBypassingAVsByCsharpProgramming/index.htm 
 ----------
-You can watch these videos online : https://www.youtube.com/watch?v=pdMgQSTuN0M&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o&index=1
+You can watch videos for eBook online here : https://www.youtube.com/watch?v=pdMgQSTuN0M&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o&index=1
 
 in these channels you can watch Videos:
 1. https://www.youtube.com/user/bbxc9x00x1f/videos
