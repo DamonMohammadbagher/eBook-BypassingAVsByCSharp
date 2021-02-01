@@ -21,6 +21,8 @@ Chapters :
     Chapter 11 : Hiding Payloads via BMP Image Pixels 
     Chapter 12 : Simple way for Data Exfiltration via HTTP
     Chapter 13 : C# e[X]tension Method (X Technique) and bypassing Anti-viruses
+    Chapter 14 : C# Delegate & Remote Thread Injection Technique
+
     
     Read-online : https://damonmohammadbagher.github.io/Posts/ebookBypassingAVsByCsharpProgramming/index.htm 
 
