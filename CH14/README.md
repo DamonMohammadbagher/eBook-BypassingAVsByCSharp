@@ -4,6 +4,9 @@ Part 1 (C#.NET Tricks and Techniques)
 
 Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part1)
 
+Chapter 14, Part 2 & 3 (soon)
+
+
 C# Source Code 1 : https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/NativePayload_Tinjection.cs
 
 C# Source Code 2 : https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/NativePayload_Tinjectionx.cs
