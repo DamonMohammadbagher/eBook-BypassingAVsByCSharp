@@ -6,7 +6,7 @@ Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part1)
 
 Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part2)
 
-Chapter 14, Part 3 (soon)
+Chapter 14, C# Delegate & Remote Thread Injection Technique (Part3)
 
 ------------------------------------
 
@@ -21,6 +21,12 @@ C# Source Code 4 : https://github.com/DamonMohammadbagher/NativePayload_Tinjecti
 C# Source Code 5 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TId.cs
 
 C# Source Code 6 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TIdnt.cs
+
+C# Source Code 7 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TImd.cs
+
+C# Source Code 8 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TId2.cs
+
+C# Source Code 9 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TId3.cs
 
 
 Article [1]: https://www.linkedin.com/pulse/bypassing-anti-virus-creating-remote-thread-target-mohammadbagher
