@@ -34,9 +34,9 @@ Article [1]: https://www.linkedin.com/pulse/bypassing-anti-virus-creating-remote
 Article [2]: https://damonmohammadbagher.github.io/Posts/11Feb2021x.html
 
 
-Related Videos:
+Related Videos :
 
-Chapter 14 - Video [1]:
+Chapter 14 - Video [1] :
 
 
 Warning :Don't Use "www.virustotal.com" or something like that , Never Ever ;D
