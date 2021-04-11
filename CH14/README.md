@@ -6,7 +6,7 @@ Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part1)
 
 Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part2)
 
-Chapter 14 :C# Delegate & Remote Thread Injection Technique (Part3)
+Chapter 14 : C# Delegate & Remote Thread Injection Technique (Part3)
 
 ------------------------------------
 
