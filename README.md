@@ -4,7 +4,6 @@ Author: Damon Mohammadbagher
 
 <p align="center">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDamonMohammadbgher%2FeBook-BypassingAVsByCSharp%2Fhit-counter"/></a>
- <img src="https://visitor-badge.laobi.icu/badge?page_id=DamonMohammadbgher.eBook-BypassingAVsByCSharp" alt="visitor badge">
 </p>
 
 ![](https://raw.githubusercontent.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/master/img/avx3.png)
