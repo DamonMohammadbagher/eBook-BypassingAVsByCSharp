@@ -1,0 +1,275 @@
+    Bypassing Anti Viruses by C#.NET Programming    Part 1 (C#.NET Tricks and Techniques)
+
+    Chapter 1 : Creating Simple Backdoor Payload by C#.NET
+
+        Related Videos :
+
+        Chapter 1 - Video [1] , Creating Simple Backdoor Payload by C#.NET : https://www.youtube.com/watch?v=pdMgQSTuN0M
+
+        -------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming     Part 1 (C#.NET Tricks and Techniques)
+
+     Chapter 2 : Making Encrypted Meterpreter Payload by C#.NET
+
+         Related Videos : https://youtu.be/j6pwSemHfTY
+
+         C# Source Code: https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/tree/master/Ebook%20-%20Chapter%202%20-%20Making%20Encrypted%20Meterpreter%20Payload%20by%20C-Sharp.NET
+
+         Related Article : https://www.linkedin.com/pulse/bypass-all-anti-viruses-encrypted-payloads-c-damon-mohammadbagher/
+
+    -------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming     Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 3 : DATA Transferring / Downloading Method by DNS Traffic (PTR Records)
+
+         Related Videos : https://www.youtube.com/watch?v=M4dbqRWRsUk
+
+        C# Source Code 1 : https://github.com/DamonMohammadbagher/NativePayload_DNS
+
+        Script Code : https://github.com/DamonMohammadbagher/NativePayload_DNS/tree/master/Chapter%203%20-%20DATA%20Transferring%20-%20Downloading%20Method%20by%20DNS%20Traffic%20-%20PTR%20Records
+
+        Related Article :
+
+         link 1 : https://www.linkedin.com/pulse/bypassing-anti-viruses-transfer-backdoor-payloads-dns-mohammadbagher/
+
+         link 2 : https://www.peerlyst.com/posts/bypassing-anti-viruses-with-transfer-backdoor-payloads-by-dns-traffic-damon-mohammadbagher
+
+    ----------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming    Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 4 : DATA Transferring Technique by DNS Traffic (A Records)
+
+        Related Videos :
+
+         https://www.youtube.com/watch?v=B-vR7jKXyts
+
+         https://www.youtube.com/watch?v=TjOTdxnyvV0
+
+         C# Source Code 1 : https://github.com/DamonMohammadbagher/NativePayload_DNS2 
+
+        Script Code : https://github.com/DamonMohammadbagher/NativePayload_DNS2/tree/master/Chapter%204%20-%20DATA%20Transferring%20Technique%20by%20DNS%20Traffic%20-%20A%20Records
+
+         Related Article :
+
+         link 1 : https://www.linkedin.com/pulse/exfiltration-technique-dns-traffic-records-damon-mohammadbagher/
+
+         link 2 : https://www.peerlyst.com/posts/exfiltration-technique-by-dns-traffic-a-records-damon-mohammadbagher
+
+    ------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming    Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 5 : Exfiltration and Uploading DATA by DNS Traffic (PTR Records)
+
+         Related Videos : 
+
+        NativePayload_DNS2.cs Csharp Code :     https://www.youtube.com/watch?v=AgDbcC9kgcg
+
+         NativePayload_DNS2.sh Script Code :     https://www.youtube.com/watch?v=zKUg_0LC9fk
+
+         C# Source Code 1 : https://github.com/DamonMohammadbagher/NativePayload_DNS2
+
+         Script Code : https://github.com/DamonMohammadbagher/NativePayload_DNS2/tree/master/Chapter%204%20-%20DATA%20Transferring%20Technique%20by%20DNS%20Traffic%20-%20A%20Records
+
+         Related Article :
+
+         link 1 : https://www.linkedin.com/pulse/exfiltration-uploading-data-dns-traffic-ptr-records-mohammadbagher/ 
+
+        link 2 : https://www.peerlyst.com/posts/exfiltrationand-uploading-data-by-dns-traffic-ptr-records-damon-mohammadbagher
+
+    ------------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming    Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 6 : DATA Transferring Technique by DNS Traffic (AAAA Records)
+
+         Related Videos :
+
+         NativePayload_IP6DNS.sh Script Code :     https://www.youtube.com/watch?v=Ac651MbNJ_U
+
+         C# Source Code 1 : https://github.com/DamonMohammadbagher/NativePayload_IP6DNS 
+
+        Script Code : https://github.com/DamonMohammadbagher/NativePayload_IP6DNS/tree/master/Chapter%206%20-%20DATA%20Transferring%20Technique%20by%20DNS%20Traffic%20-%20AAAA%20Records
+
+         Related Article :
+
+         link 1 : https://www.linkedin.com/pulse/transferring-backdoor-payloads-dns-aaaa-records-ipv6-mohammadbagher/
+
+         link 2 : https://www.peerlyst.com/posts/transferring-backdoor-payloads-by-dns-aaaa-records-and-ipv6-address-damon-mohammadbagher
+
+    -----------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming     Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 7 : Exfiltration and Uploading DATA by DNS Traffic (IPv6 AAAA/PTR Queries)
+
+         Related Videos :
+
+         C# Code :    https://www.youtube.com/watch?v=9jiry5b-oPo
+
+         Script Code :    https://www.youtube.com/watch?v=6Lj-2KkHqgA
+
+         C# Source Code 1 : https://github.com/DamonMohammadbagher/RedbudTree
+
+         Script Code : https://github.com/DamonMohammadbagher/NativePayload_IP6DNS/tree/master/Chapter%206%20-%20DATA%20Transferring%20Technique%20by%20DNS%20Traffic%20-%20AAAA%20Records
+
+    --------------------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming    Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 8 : Transferring Backdoor Payloads by ARP Traffic
+
+         Related Videos :
+
+         C# Code :
+
+         Video 1 C# Code : https://youtu.be/qDLicXj7Vuk
+
+         Video 2 Script Code : https://www.youtube.com/watch?v=O-llNZ9S8Mo
+
+         C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_ARP
+
+         Script Code : https://github.com/DamonMohammadbagher/NativePayload_ARP/tree/master/Chapter%208%20-%20Transferring%20Backdoor%20Payloads%20by%20ARP%20Traffic
+
+         Related Article :
+
+         link 1 : https://www.linkedin.com/pulse/transfer-backdoor-payloads-arp-traffic-bypassing-avs-mohammadbagher/
+
+         link 2 : https://www.peerlyst.com/posts/transfer-backdoor-payloads-by-arp-traffic-and-bypassing-avs-damon-mohammadbagher
+
+    ------------------------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming    Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 9 : Transferring Backdoor Payload by Wireless Traffic (BSSID) 
+
+        Related Videos :
+
+         Video 1 C# Code : https://youtu.be/W0dJGln3tls 
+
+        Video 2 Script Code : https://www.youtube.com/watch?v=i6Y5BmJXWko
+
+         C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_BSSID 
+
+        Script Code : https://github.com/DamonMohammadbagher/NativePayload_BSSID/tree/master/Chapter%209%20-%20Transferring%20Backdoor%20Payload%20by%20Wireless%20Traffic%20-BSSID
+
+         Related Article : 
+
+        link 1 : https://www.linkedin.com/pulse/transferring-backdoor-payloads-bssid-wireless-traffic-mohammadbagher/ 
+
+        link 2 : https://www.peerlyst.com/posts/transferring-backdoor-payloads-with-bssid-by-wireless-traffic-damon-mohammadbagher
+
+ 
+
+    -------------------------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming    Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 10 : Transferring Payload via ICMPv4 Traffic by TTL
+
+         Related Videos :
+
+         Video 1 :
+
+         Video 2 :
+
+         C# Source Code (v1.0): https://github.com/DamonMohammadbagher/NativePayload_ICMP
+
+         C# Source Code (v2.0): https://github.com/DamonMohammadbagher/NativePayload_ICMP/blob/master/Chapter%2010%20-%20Transferring%20Payload%20via%20ICMPv4%20Traffic%20by%20TTL
+
+         Script Code : https://github.com/DamonMohammadbagher/NativePayload_ICMP/tree/master/Chapter%2010%20-%20Transferring%20Payload%20via%20ICMPv4%20Traffic%20by%20TTL
+
+         Related Article :
+
+         link 1 : https://www.peerlyst.com/posts/transfer-download-payload-by-icmpv4-traffic-via-ttl-damon-mohammadbagher
+
+    ---------------------------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming    Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 11 : Hiding Payloads via BMP Image Pixels (PART1)
+
+     Chapter 11 : Hiding Payloads via BMP Image Pixels (PART2)
+
+         Related Videos :
+
+         Video 1 Script and C# Code : https://www.youtube.com/watch?v=D5tfh23vIOQ
+
+         Video 2 (Chat Mode) Script Code : https://www.youtube.com/watch?v=2n6ZLbJxlkw
+
+        C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_Image
+
+         Script Code : https://github.com/DamonMohammadbagher/NativePayload_Image/tree/master/Chapter%2011%20-%20Hiding%20Payloads%20via%20BMP%20Image%20Pixels
+
+        Related Article :
+
+        link 1 : https://www.linkedin.com/pulse/transferring-backdoor-payloads-bmp-image-pixels-damon-mohammadbagher/
+
+         link 2 : https://www.peerlyst.com/posts/transferring-backdoor-payloads-with-bmp-image-pixels-damon-mohammadbagher
+
+    ----------------------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming    Part 2 (Infil/Exfiltration/Transferring Techniques by C#)
+
+     Chapter 12 : Simple way for Data Exfiltration via HTTP (PART1) 
+
+    Chapter 12 : Simple way for Data Exfiltration via HTTP (PART2)
+
+         Related Videos :
+
+         Video [1] , Shell Script (server/client side) : https://www.youtube.com/watch?v=vjhubCYFP4c
+
+        Video [2] , C# code (client side) : https://www.youtube.com/watch?v=7MCOko-qy0c
+
+         C# Source Code : https://github.com/DamonMohammadbagher/NativePayload_HTTP/blob/master/Chapter%2012:%20Simple%20way%20for%20Data%20Exfiltration%20via%20HTTP/NativePayload_HTTP.cs
+
+         Script Code : https://github.com/DamonMohammadbagher/NativePayload_HTTP/blob/master/Chapter%2012:%20Simple%20way%20for%20Data%20Exfiltration%20via%20HTTP/NativePayload_HTTP.sh
+
+    -------------------------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming     Part 1 (C#.NET Tricks and Techniques)
+
+     Chapter 13 : C# e[X]tension Method (X Technique) and bypassing Anti-viruses
+
+         C# Source Code 1 (New-Code) : https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/blob/master/NativePayload_Reverse_tcpx.cs
+
+         C# Source Code 2 (Old-Code) : https://github.com/DamonMohammadbagher/NativePayload_Reverse_tcp/blob/master/NativePayload_SimpleReverse_tcp.cs
+
+        Article [1]: https://www.linkedin.com/pulse/c-x-technique-bypassing-anti-viruses-damon-mohammadbagher/
+
+    --------------------------------------------------------
+
+    Bypassing Anti Viruses by C#.NET Programming    Part 1 (C#.NET Tricks and Techniques)
+
+    Chapter 14 : C# Delegate & Remote Thread Injection Technique (PART1) 
+
+    Chapter 14 : C# Delegate & Remote Thread Injection Technique (PART2)
+
+    Chapter 14 : C# Delegate & Remote Thread Injection Technique (PART3)
+
+         Related Videos :
+
+         Video [1] : https://www.youtube.com/watch?v=kCgHl-UnM-s
+
+         Source Code1 : https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/NativePayload_Tinjection.cs
+
+         Source Code2 : https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/NativePayload_Tinjectionx.cs
+
+         Source Code3 : https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/NativePayload_Tinjection2.cs
+
+         Source Code4 : https://github.com/DamonMohammadbagher/NativePayload_Tinjection/blob/main/NativePayload_Tinjection2nt.cs
+
+         Source Code5 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TId.cs
+
+         Source Code6 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TIdnt.cs
+
+         Source Code7 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TImd.cs
+
+         Source Code8 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TId2.cs
+
+         Source Code9 : https://github.com/DamonMohammadbagher/NativePayload_TId/blob/main/NativePayload_TId3.cs
+
+    -------------------------------------------------
