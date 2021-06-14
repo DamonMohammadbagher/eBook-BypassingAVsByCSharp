@@ -36,9 +36,10 @@ This eBook is online with simple web pages here : https://damonmohammadbagher.gi
 ----------
 You can watch videos for eBook online here : https://www.youtube.com/watch?v=pdMgQSTuN0M&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o&index=1
 
-in these channels you can watch Videos:
-1. https://www.youtube.com/user/bbxc9x00x1f/videos
-2. https://www.youtube.com/channel/UC7vBalrrSmuRx7pIIGLwRZw/videos
+in these channels you can watch Videos [playlists]:
+1. https://www.youtube.com/watch?v=pdMgQSTuN0M&list=PLlbW0JD9GV5m53UzA3kvE1-WVvDKoNi-o
+2. https://www.youtube.com/watch?v=5fSDV28phYI&list=PLBfcsaH1D0ryUV8t4o5JT4Cj1KiWGZGt9
+3. https://share.vidyard.com/watch/c7k7rw4RBy4erHBACeWDy2?
 ----------
 Download Videos: https://github.com/DamonMohammadbagher/Videos-BypassingAVsByCSharp
 ----------
